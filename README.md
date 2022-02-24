@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, my name is Eduard</h1>
 <h3 align="center">I am Full-stack developer</h3>
 
-Skills: Node.js / MongoDB / REACT / REDUX / JS / JSX / HTML / CSS /SCSS
+Skills: Node.js / MongoDB / REACT / REDUX / JAVASCRIPT /  TYPESCRIPT / JSX / HTML / CSS /SCSS
 
 
 - I’m currently working on several projects.
-
-- I’m currently learning **Angular**
-
-- I’m looking to collaborate on **NodeJs projects**
-
 - All of my projects are available at [https://github.com/ramushev?tab=repositories](https://github.com/ramushev?tab=repositories)
 
 - How to reach me **auc1501@ukr.net**
